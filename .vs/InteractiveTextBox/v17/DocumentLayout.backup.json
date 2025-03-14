@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\hubs\\wordhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\hubs\\wordhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|c:\\users\\hp\\desktop\\interactivetextbox\\interactivetextbox\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655DB962-95A0-47BA-B334-8B4682559943}|InteractiveTextBox\\InteractiveTextBox.csproj|solutionrelative:interactivetextbox\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 371,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InteractiveTextBox\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:48:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InteractiveTextBox\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:44:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InteractiveTextBox\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:44:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordHub.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Hubs\\WordHub.cs",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\Hubs\\WordHub.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Hubs\\WordHub.cs",
+              "RelativeToolTip": "InteractiveTextBox\\Hubs\\WordHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:42:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Program.cs",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Program.cs",
+              "RelativeToolTip": "InteractiveTextBox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:40:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\Models\\Word.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\Models\\Word.cs",
+              "RelativeToolTip": "InteractiveTextBox\\Models\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:35:47.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InteractiveTextBox\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InteractiveTextBox\\InteractiveTextBox\\AppDbContext.cs",
+              "RelativeToolTip": "InteractiveTextBox\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:34:39.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

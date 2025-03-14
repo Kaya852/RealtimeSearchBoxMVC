@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<h2>Kelime Arama</h2>
+
+<input type="text" id="searchBox" placeholder="Lutfen kelime girin" />
+<div id="results"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script>
+    // SignalR baglantisi olusturur
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/wordHub")
+        .build();
+    //baglantiyi baslatir
+    connection.start().catch(err => console.error(err.toString()));
+
+    document.getElementById("searchBox").addEventListener("input", function() {
+        let searchTerm = this.value;
+        if (searchTerm.length > 0) {
+            connection.invoke("SearchWords", searchTerm).catch(err => console.error(err.toString()));
+        } else {
+            document.getElementById("results").innerHTML = "";
+        }
+    });
+
+    
+    connection.on("ReceiveWords", function(words) {
+        let resultHtml = words.map(word => `<div>${word}</div>`).join("");
+        document.getElementById("results").innerHTML = resultHtml;
+    });
+</script>
